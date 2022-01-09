@@ -7,12 +7,12 @@ This *Kotin(for beginners)* application provides you an offline video where the 
 ## Functionality and Concepts used: <br/>
 The App has a very creative and interactive interface.<br/>
 Constraint layout: All activities in the app uses flexible constraint layout, which is easy to handle for different screen sizes. <br/>
-##Simple and easy Views Design: <br/>
+Simple and easy Views Design: <br/>
 Use of familiar audience EditText and interactive buttons made it easier for students to login or create account. <br/>
 Recycler View: This is used for the chat section to display the query in a list view. <br/>
-## Live Data and Room Database: <br/>
+Live Data and Room Database: <br/>
 This is used in the chat section to update the the list of query and answers. The room database is used to store the user login data and verify it accordingly. <br/>
-## File handling: <br/>
+- File handling: <br/>
 This is used to store user login credentials and verify it accordingly while logging in. <br/>
 ## Application link:<br/>
 https://drive.google.com/file/d/1-3LSqTqTzfrYEwteDsgTiykYEfr5QS2O/view?usp=drivesdk <br/>
