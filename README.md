@@ -6,11 +6,11 @@ Not everyone can have **internet** for all the time. When the message pops up 10
 This *Kotin(for beginners)* application provides you an offline video where the expert explains kotlin basic concepts with clarity also if the student get any doubts regarding any term used they can just type in the chat section also for clearing of the doubt. At First the application asks for login if you don't have the account then you will have to create one by tapping the button create account. <br/>
 ## Functionality and Concepts used: <br/>
 The App has a very creative and interactive interface.<br/>
-Constraint layout: All activities in the app uses flexible constraint layout, which is easy to handle for different screen sizes. <br/>
-Simple and easy Views Design: <br/>
+- Constraint layout: All activities in the app uses flexible constraint layout, which is easy to handle for different screen sizes. <br/>
+- Simple and easy Views Design: <br/>
 Use of familiar audience EditText and interactive buttons made it easier for students to login or create account. <br/>
-Recycler View: This is used for the chat section to display the query in a list view. <br/>
-Live Data and Room Database: <br/>
+- Recycler View: This is used for the chat section to display the query in a list view. <br/>
+- Live Data and Room Database: <br/>
 This is used in the chat section to update the the list of query and answers. The room database is used to store the user login data and verify it accordingly. <br/>
 - File handling: <br/>
 This is used to store user login credentials and verify it accordingly while logging in. <br/>
