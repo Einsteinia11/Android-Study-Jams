@@ -14,5 +14,8 @@ Use of familiar audience EditText and interactive buttons made it easier for stu
 This is used in the chat section to update the the list of query and answers. The room database is used to store the user login data and verify it accordingly. <br/>
 - File handling: <br/>
 This is used to store user login credentials and verify it accordingly while logging in. <br/>
+### Screen shot of the App frames
+<img width="561" alt="app" src="https://user-images.githubusercontent.com/97274353/184522569-bb6cb80e-7388-4ea5-bfc0-adb169825590.PNG">
+
 ## Application link:<br/>
 https://drive.google.com/file/d/1-3LSqTqTzfrYEwteDsgTiykYEfr5QS2O/view?usp=sharing<br/>
